@@ -1,0 +1,4 @@
+repository "Mathemathics@ssl://death-of-mathematics@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main" 
+     

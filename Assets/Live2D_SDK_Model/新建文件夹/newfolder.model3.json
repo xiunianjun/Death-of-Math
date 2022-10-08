@@ -1,0 +1,136 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "newfolder.moc3",
+    "Textures": [
+      "newfolder.1024/texture_00.png"
+    ],
+    "Physics": "newfolder.physics3.json",
+    "PhysicsV2": {
+      "File": "newfolder.physics3.json"
+    },
+    "Motions": {
+      "Idle": [
+        {
+          "File": "motions/idle.motion3.json"
+        }
+      ],
+      "mode#2": [
+        {
+          "File": "motions/light.motion3.json"
+        },
+        {
+          "File": "motions/dark.motion3.json"
+        }
+      ],
+      "expressions#3": [
+        {
+          "Name": "exp0",
+          "File": "motions/EXP0.motion3.json"
+        },
+        {
+          "Name": "exp1",
+          "File": "motions/EXP1.motion3.json"
+        },
+        {
+          "Name": "exp2",
+          "File": "motions/EXP2.motion3.json"
+        },
+        {
+          "Name": "exp3",
+          "File": "motions/EXP3.motion3.json"
+        },
+        {
+          "Name": "exp4",
+          "File": "motions/EXP4.motion3.json"
+        }
+      ],
+      "content#4": [
+        {
+          "File": "motions/content_hide.motion3.json",
+          "VarFloats": [
+            {
+              "Name": "cont_en",
+              "Type": 1,
+              "Code": "equal 1"
+            },
+            {
+              "Name": "cont_en",
+              "Type": 2,
+              "Code": "assign 0"
+            }
+          ]
+        },
+        {
+          "File": "motions/content_show.motion3.json",
+          "VarFloats": [
+            {
+              "Name": "cont_en",
+              "Type": 1,
+              "Code": "equal 0"
+            },
+            {
+              "Name": "cont_en",
+              "Type": 2,
+              "Code": "assign 1"
+            }
+          ]
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "bubble.exp3.json",
+        "File": "motions/bubble.exp3.json"
+      },
+      {
+        "Name": "reset.exp3.json",
+        "File": "motions/reset.exp3.json"
+      }
+    ]
+  },
+  "Controllers": {
+    "ParamHit": {},
+    "ParamLoop": {},
+    "KeyTrigger": {},
+    "ParamTrigger": {},
+    "AreaTrigger": {},
+    "HandTrigger": {},
+    "EyeBlink": {
+      "MinInterval": 500,
+      "MaxInterval": 6000,
+      "Enabled": true
+    },
+    "LipSync": {
+      "Gain": 5.0
+    },
+    "MouseTracking": {
+      "SmoothTime": 0.15,
+      "Enabled": true
+    },
+    "AutoBreath": {
+      "Enabled": true
+    },
+    "ExtraMotion": {
+      "Enabled": true
+    },
+    "Accelerometer": {
+      "Enabled": true
+    },
+    "Microphone": {},
+    "Transform": {},
+    "FaceTracking": {
+      "Enabled": true
+    },
+    "HandTracking": {},
+    "ParamValue": {},
+    "PartOpacity": {},
+    "ArtmeshOpacity": {},
+    "ArtmeshColor": {},
+    "ArtmeshCulling": {
+      "DefaultMode": 0
+    },
+    "IntimacySystem": {}
+  },
+  "Options": {}
+}
