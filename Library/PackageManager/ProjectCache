@@ -1,25 +1,42 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
+<<<<<<< HEAD
     m_FilePath: "C:/Users/17765/Desktop/unity/unityFile/Mathemathics - \u526F\u672C/Packages/manifest.json"
+=======
+    m_FilePath: C:/game design/fpstry/Packages/manifest.json
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 637824069808294569
     m_Hash: 1216245924
   m_LockFileStatus:
     m_FilePath: "C:/Users/17765/Desktop/unity/unityFile/Mathemathics - \u526F\u672C/Packages/packages-lock.json"
+=======
+      ticks: 638002836034366587
+    m_Hash: 2058866165
+  m_LockFileStatus:
+    m_FilePath: C:/game design/fpstry/Packages/packages-lock.json
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 637824069809598803
     m_Hash: 2627100792
+=======
+      ticks: 638002836034491784
+    m_Hash: 3331441723
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
+<<<<<<< HEAD
     - packageId: com.unity.2d.sprite@1.0.0
       testable: 0
       isDirectDependency: 1
@@ -251,6 +268,14 @@ m_PackageAssets:
       source: 1
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.collab-proxy@1.13.5"
+=======
+    - packageId: com.unity.collab-proxy@1.15.7
+      testable: 0
+      isDirectDependency: 1
+      version: 1.15.7
+      source: 1
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.collab-proxy@1.15.7
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -389,12 +414,17 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637685076530000000
+=======
+      datePublishedTicks: 637744672890000000
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
+<<<<<<< HEAD
         revision: 4001806dc89b25276d1382d5abffd71731b030e5
         path: 
     - packageId: com.unity.ide.rider@3.0.7
@@ -404,6 +434,16 @@ m_PackageAssets:
       source: 1
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.ide.rider@3.0.7"
+=======
+        revision: d208594e5483cdf10d303b6ee17df4d6bf58d3de
+        path: 
+    - packageId: com.unity.ide.rider@2.0.7
+      testable: 0
+      isDirectDependency: 1
+      version: 2.0.7
+      source: 1
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.ide.rider@2.0.7
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -485,11 +525,25 @@ m_PackageAssets:
         - 3.0.15
         verified: 2.0.7
       dependencies:
+<<<<<<< HEAD
       - name: com.unity.ext.nunit
         version: 1.0.6
       resolvedDependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
+=======
+      - name: com.unity.test-framework
+        version: 1.1.1
+      resolvedDependencies:
+      - name: com.unity.test-framework
+        version: 1.1.29
+      - name: com.unity.ext.nunit
+        version: 1.0.6
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       keywords: []
       registry:
         id: main
@@ -503,12 +557,17 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637572251600000000
+=======
+      datePublishedTicks: 637334461080000000
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
+<<<<<<< HEAD
         revision: 3007c42a679bbe2c082c276e8d79279110964553
         path: 
     - packageId: com.unity.ide.visualstudio@2.0.11
@@ -518,6 +577,16 @@ m_PackageAssets:
       source: 1
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.11"
+=======
+        revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
+        path: 
+    - packageId: com.unity.ide.visualstudio@2.0.12
+      testable: 0
+      isDirectDependency: 1
+      version: 2.0.12
+      source: 1
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.ide.visualstudio@2.0.12
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -599,21 +668,33 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637613656180000000
+=======
+      datePublishedTicks: 637720564750000000
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
+<<<<<<< HEAD
         revision: 680e06d94ffca728223ae2cb14bb919cd354e2c1
+=======
+        revision: 8d436ff053b9c59677b5e9799208143553cd02d9
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
         path: 
     - packageId: com.unity.ide.vscode@1.2.4
       testable: 0
       isDirectDependency: 1
       version: 1.2.4
       source: 1
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.ide.vscode@1.2.4"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.ide.vscode@1.2.4
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -681,6 +762,7 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/com.unity.ide.vscode.git
         revision: 1f4f605d5c988cb610c372b5c5216c46cc8f5d30
         path: 
+<<<<<<< HEAD
     - packageId: com.unity.inputsystem@1.2.0
       testable: 0
       isDirectDependency: 1
@@ -691,18 +773,46 @@ m_PackageAssets:
       assetPath: Packages/com.unity.inputsystem
       name: com.unity.inputsystem
       displayName: Input System
+=======
+    - packageId: com.unity.probuilder@5.0.6
+      testable: 0
+      isDirectDependency: 1
+      version: 5.0.6
+      source: 1
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.probuilder@5.0.6
+      assetPath: Packages/com.unity.probuilder
+      name: com.unity.probuilder
+      displayName: ProBuilder
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       author:
         name: 
         email: 
         url: 
       category: 
       type: 
+<<<<<<< HEAD
       description: A new input system which can be used as a more extensible and
         customizable alternative to Unity's classic input system in UnityEngine.Input.
+=======
+      description: 'Build, edit, and texture custom geometry in Unity. Use ProBuilder
+        for in-scene level design, prototyping, collision meshes, all with on-the-fly
+        play-testing.
+
+
+        Advanced features include UV editing, vertex colors,
+        parametric shapes, and texture blending. With ProBuilder''s model export
+        feature it''s easy to tweak your levels in any external 3D modelling suite.
+
+
+        If
+        you are using URP/HDRP, be careful to also import the corresponding sample
+        project in the section below to get the proper materials.'
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       status: 4
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 0.1.2-preview
         - 0.2.0-preview
         - 0.2.1-preview
@@ -924,6 +1034,113 @@ m_PackageAssets:
       - mobile
       - render
       - pipeline
+=======
+        - 3.0.0
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 3.0.6
+        - 3.0.8
+        - 3.0.9
+        - 3.10.1
+        - 4.0.2
+        - 4.0.3
+        - 4.0.4
+        - 4.0.5
+        - 4.1.0
+        - 4.1.2
+        - 4.2.1
+        - 4.2.2-preview.1
+        - 4.2.2-preview.2
+        - 4.2.3
+        - 4.2.4-preview.0
+        - 4.3.0-preview.0
+        - 4.3.0-preview.1
+        - 4.3.0-preview.2
+        - 4.3.0-preview.4
+        - 4.3.0-preview.6
+        - 4.3.0-preview.7
+        - 4.3.0-preview.8
+        - 4.3.0-preview.9
+        - 4.3.1
+        - 4.4.0-preview.1
+        - 4.4.0
+        - 4.5.0
+        - 4.5.2
+        - 5.0.0-pre.7
+        - 5.0.0-pre.10
+        - 5.0.1
+        - 5.0.3
+        - 5.0.4
+        - 5.0.6
+        compatible:
+        - 4.0.2
+        - 4.0.3
+        - 4.0.4
+        - 4.0.5
+        - 4.1.0
+        - 4.1.2
+        - 4.2.1
+        - 4.2.2-preview.1
+        - 4.2.2-preview.2
+        - 4.2.3
+        - 4.2.4-preview.0
+        - 4.3.0-preview.0
+        - 4.3.0-preview.1
+        - 4.3.0-preview.2
+        - 4.3.0-preview.4
+        - 4.3.0-preview.6
+        - 4.3.0-preview.7
+        - 4.3.0-preview.8
+        - 4.3.0-preview.9
+        - 4.3.1
+        - 4.4.0-preview.1
+        - 4.4.0
+        - 4.5.0
+        - 4.5.2
+        - 5.0.0-pre.7
+        - 5.0.0-pre.10
+        - 5.0.1
+        - 5.0.3
+        - 5.0.4
+        - 5.0.6
+        verified: 4.5.2
+      dependencies:
+      - name: com.unity.settings-manager
+        version: 1.0.3
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.settings-manager
+        version: 1.0.3
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - 3d
+      - model
+      - mesh
+      - modeling
+      - geometry
+      - shape
+      - cube
+      - blender
+      - max
+      - maya
+      - fbx
+      - obj
+      - level
+      - design
+      - block
+      - greybox
+      - graybox
+      - whitebox
+      - prototype
+      - probuilder
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       registry:
         id: main
         name: 
@@ -936,21 +1153,332 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637756825800000000
+=======
+      datePublishedTicks: 637928847600000000
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
+<<<<<<< HEAD
         url: https://github.com/Unity-Technologies/Graphics.git
         revision: 31a193989d1e4e18ec3dced0f45168f8d2552a9a
+=======
+        url: https://github.com/Unity-Technologies/com.unity.probuilder.git
+        revision: a2e0f7904211f195c1c7661cdbed49fdc4a4130d
+        path: 
+    - packageId: com.unity.progrids@3.0.3-preview.6
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.3-preview.6
+      source: 1
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.progrids@3.0.3-preview.6
+      assetPath: Packages/com.unity.progrids
+      name: com.unity.progrids
+      displayName: ProGrids
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'Advanced grid and object snapping for the scene view. ProGrids
+        is a dynamically placed grid, available on all 3 axes and at any position
+        in the scene.
+
+
+        ProGrids snaps objects in world space, ensuring consistent
+        placement of objects in your level.
+
+
+        In addition, ProGrids is completely
+        customizable. Change the colors of your grid, the snap sizing, unit of measurement,
+        and more!'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 3.0.1-preview
+        - 3.0.2-preview
+        - 3.0.3-preview.0
+        - 3.0.3-preview.4
+        - 3.0.3-preview.5
+        - 3.0.3-preview.6
+        compatible:
+        - 3.0.1-preview
+        - 3.0.2-preview
+        - 3.0.3-preview.0
+        - 3.0.3-preview.4
+        - 3.0.3-preview.5
+        - 3.0.3-preview.6
+        verified: 
+      dependencies:
+      - name: com.unity.settings-manager
+        version: 1.0.2
+      resolvedDependencies:
+      - name: com.unity.settings-manager
+        version: 1.0.3
+      keywords:
+      - grid
+      - snap
+      - manipulation
+      - array
+      - align
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.cn
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637209307060000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.unity.progrids.git
+        revision: 381f2b0b5dda11525d53e2c608284a3f68d1beff
+        path: 
+    - packageId: com.unity.quicksearch@2.0.2
+      testable: 0
+      isDirectDependency: 1
+      version: 2.0.2
+      source: 1
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.quicksearch@2.0.2
+      assetPath: Packages/com.unity.quicksearch
+      name: com.unity.quicksearch
+      displayName: Quick Search
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'Search multiple areas of Unity: assets, scene objects, menu items,
+        packages, APIs, settings, etc.
+
+
+        On Windows simply press Alt+'' to
+        find anything or Option+'' on Mac.
+
+        Look in the shortcut manager
+        for additional Quick Search shortcut bindings.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.9.5-preview.1
+        - 0.9.6-preview.1
+        - 0.9.7-preview.3
+        - 0.9.9-preview.2
+        - 0.9.95-preview
+        - 1.0.0-preview.2
+        - 1.0.1-preview.1
+        - 1.0.9-preview.2
+        - 1.1.0-preview.1
+        - 1.2.0-preview.1
+        - 1.2.1-preview
+        - 1.2.2-preview
+        - 1.2.3-preview
+        - 1.2.4-preview
+        - 1.2.6-preview
+        - 1.2.7-preview
+        - 1.2.8-preview
+        - 1.2.9-preview
+        - 1.3.0-preview
+        - 1.3.1-preview
+        - 1.3.2-preview
+        - 1.4.1
+        - 1.4.2-preview.1
+        - 1.4.2-preview.2
+        - 1.4.2-preview.3
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.0-preview.6
+        - 1.5.0
+        - 1.5.1
+        - 1.5.2-preview.1
+        - 1.5.2-preview.2
+        - 1.5.2
+        - 1.5.3
+        - 1.5.4
+        - 1.6.0-preview.1
+        - 1.6.0-preview.2
+        - 1.6.0-preview.3
+        - 1.6.0-preview.4
+        - 1.6.0-preview.5
+        - 1.6.0-preview.6
+        - 1.6.0-preview.7
+        - 1.6.0-preview.8
+        - 1.6.0-preview.9
+        - 2.0.0
+        - 2.0.2
+        - 2.1.0-preview.1
+        - 2.1.0-preview.2
+        - 2.1.0-preview.3
+        - 2.1.0-preview.4
+        - 2.1.0-preview.5
+        - 3.0.0-preview.1
+        - 3.0.0-preview.2
+        - 3.0.0-preview.3
+        - 3.0.0-preview.5
+        - 3.0.0-preview.6
+        - 3.0.0-preview.7
+        - 3.0.0-preview.8
+        - 3.0.0-preview.9
+        - 3.0.0-preview.10
+        - 3.0.0-preview.11
+        - 3.0.0-preview.12
+        - 3.0.0-preview.13
+        - 3.0.0-preview.14
+        - 3.0.0-preview.15
+        - 3.0.0-preview.16
+        - 3.0.0-preview.17
+        - 3.0.0-preview.18
+        - 3.0.0-preview.19
+        - 3.0.0-preview.20
+        - 3.0.0-preview.21
+        - 3.0.0-preview.22
+        - 3.0.0-preview.23
+        - 3.0.0-preview.24
+        - 3.0.0-preview.25
+        compatible:
+        - 0.9.5-preview.1
+        - 0.9.6-preview.1
+        - 0.9.7-preview.3
+        - 0.9.9-preview.2
+        - 0.9.95-preview
+        - 1.0.0-preview.2
+        - 1.0.1-preview.1
+        - 1.0.9-preview.2
+        - 1.1.0-preview.1
+        - 1.2.0-preview.1
+        - 1.2.1-preview
+        - 1.2.2-preview
+        - 1.2.3-preview
+        - 1.2.4-preview
+        - 1.2.6-preview
+        - 1.2.7-preview
+        - 1.2.8-preview
+        - 1.2.9-preview
+        - 1.3.0-preview
+        - 1.3.1-preview
+        - 1.3.2-preview
+        - 1.4.1
+        - 1.4.2-preview.1
+        - 1.4.2-preview.2
+        - 1.4.2-preview.3
+        - 1.5.0-preview.1
+        - 1.5.0-preview.2
+        - 1.5.0-preview.3
+        - 1.5.0-preview.4
+        - 1.5.0-preview.5
+        - 1.5.0-preview.6
+        - 1.5.0
+        - 1.5.1
+        - 1.5.2-preview.1
+        - 1.5.2-preview.2
+        - 1.5.2
+        - 1.5.3
+        - 1.5.4
+        - 1.6.0-preview.1
+        - 1.6.0-preview.2
+        - 1.6.0-preview.3
+        - 1.6.0-preview.4
+        - 1.6.0-preview.5
+        - 1.6.0-preview.6
+        - 1.6.0-preview.7
+        - 1.6.0-preview.8
+        - 1.6.0-preview.9
+        - 2.0.0
+        - 2.0.2
+        - 2.1.0-preview.1
+        - 2.1.0-preview.2
+        - 2.1.0-preview.3
+        - 2.1.0-preview.4
+        - 2.1.0-preview.5
+        - 3.0.0-preview.1
+        - 3.0.0-preview.2
+        - 3.0.0-preview.3
+        - 3.0.0-preview.5
+        - 3.0.0-preview.6
+        - 3.0.0-preview.7
+        - 3.0.0-preview.8
+        - 3.0.0-preview.9
+        - 3.0.0-preview.10
+        - 3.0.0-preview.11
+        - 3.0.0-preview.12
+        - 3.0.0-preview.13
+        - 3.0.0-preview.14
+        - 3.0.0-preview.15
+        - 3.0.0-preview.16
+        - 3.0.0-preview.17
+        - 3.0.0-preview.18
+        - 3.0.0-preview.19
+        - 3.0.0-preview.20
+        - 3.0.0-preview.21
+        - 3.0.0-preview.22
+        - 3.0.0-preview.23
+        - 3.0.0-preview.24
+        - 3.0.0-preview.25
+        verified: 2.0.2
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - unity
+      - editor
+      - omni
+      - tool
+      - quick
+      - search
+      - assets
+      - menu
+      - scene
+      - api
+      - packages
+      - anything
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.cn
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637293829350000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.quicksearch.git
+        revision: 4d5c0f54be26662a75c6c9d71d0f5354d4379fe8
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
         path: 
     - packageId: com.unity.test-framework@1.1.29
       testable: 0
       isDirectDependency: 1
       version: 1.1.29
       source: 1
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.test-framework@1.1.29"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.test-framework@1.1.29
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1053,8 +1581,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.textmeshpro@3.0.6
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1215,6 +1747,7 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
         revision: 01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899
         path: 
+<<<<<<< HEAD
     - packageId: com.unity.timeline@1.5.6
       testable: 0
       isDirectDependency: 1
@@ -1222,6 +1755,14 @@ m_PackageAssets:
       source: 1
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.timeline@1.5.6"
+=======
+    - packageId: com.unity.timeline@1.4.8
+      testable: 0
+      isDirectDependency: 1
+      version: 1.4.8
+      source: 1
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.timeline@1.4.8
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1374,21 +1915,33 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637613662510000000
+=======
+      datePublishedTicks: 637557616100000000
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
+<<<<<<< HEAD
         revision: bba45362fa74fde39bfa14d05688da527254b39f
+=======
+        revision: 527e4364e28028f20f04fc51db671eb4bb910a26
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
         path: 
     - packageId: com.unity.ugui@1.0.0
       testable: 0
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.ugui@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.ugui@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1446,6 +1999,7 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
+<<<<<<< HEAD
     - packageId: com.unity.visualscripting@1.6.1
       testable: 0
       isDirectDependency: 1
@@ -1547,13 +2101,19 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
         revision: d2dc8205ed231b4fc18289dddb14c0a92c76154f
         path: 
+=======
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
     - packageId: com.unity.modules.ai@1.0.0
       testable: 0
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.ai@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.ai@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1601,8 +2161,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.androidjni@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1650,8 +2214,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.animation@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.animation@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1699,8 +2267,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.assetbundle@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1748,8 +2320,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.audio@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.audio@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1792,13 +2368,92 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
+<<<<<<< HEAD
+=======
+    - packageId: com.unity.modules.autostreaming@1.0.0
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.autostreaming@1.0.0
+      assetPath: Packages/com.unity.modules.autostreaming
+      name: com.unity.modules.autostreaming
+      displayName: Auto Streaming
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: module
+      description: 'The AutoStreaming module implements the resource auto-streaming
+        feature in Unity. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.AutoStreamingModule.html'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies:
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.assetbundle
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequestassetbundle
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.assetbundle
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
+      - name: com.unity.modules.unitywebrequestassetbundle
+        version: 1.0.0
+      keywords: []
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
     - packageId: com.unity.modules.cloth@1.0.0
       testable: 0
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.cloth@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.cloth@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1850,8 +2505,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.director@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.director@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1907,8 +2566,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.imageconversion@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1957,8 +2620,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.imgui@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.imgui@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -2006,8 +2673,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.jsonserialize@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -2055,8 +2726,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.particlesystem@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -2104,8 +2779,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.physics@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.physics@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -2153,8 +2832,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.physics2d@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -2202,8 +2885,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.screencapture@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -2255,8 +2942,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.terrain@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.terrain@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -2304,8 +2995,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.terrainphysics@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -2361,8 +3056,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.tilemap@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -2414,8 +3113,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.ui@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.ui@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2463,8 +3166,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.uielements@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.uielements@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2528,8 +3235,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.umbra@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.umbra@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2577,8 +3288,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.unityanalytics@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2634,8 +3349,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.unitywebrequest@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2683,8 +3402,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2740,8 +3463,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2797,8 +3524,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2854,8 +3585,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2927,8 +3662,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.vehicles@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -2980,8 +3719,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.video@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.video@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -3041,8 +3784,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.vr@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.vr@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -3104,8 +3851,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.wind@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.wind@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -3153,8 +3904,12 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.xr@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.xr@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -3214,8 +3969,12 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.subsystems@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -3267,8 +4026,12 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.modules.uielementsnative@1.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -3327,8 +4090,12 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.ext.nunit@1.0.6
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3351,6 +4118,10 @@ m_PackageAssets:
         - 1.0.5
         - 1.0.6
         - 2.0.2
+<<<<<<< HEAD
+=======
+        - 2.0.3
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
         compatible:
         - 0.1.5-preview
         - 0.1.6-preview
@@ -3359,6 +4130,10 @@ m_PackageAssets:
         - 1.0.5
         - 1.0.6
         - 2.0.2
+<<<<<<< HEAD
+=======
+        - 2.0.3
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
         verified: 1.0.6
       dependencies: []
       resolvedDependencies: []
@@ -3386,6 +4161,7 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
         path: 
+<<<<<<< HEAD
     - packageId: com.unity.mathematics@1.1.0
       testable: 0
       isDirectDependency: 0
@@ -3396,18 +4172,35 @@ m_PackageAssets:
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
+=======
+    - packageId: com.unity.settings-manager@1.0.3
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.3
+      source: 1
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.settings-manager@1.0.3
+      assetPath: Packages/com.unity.settings-manager
+      name: com.unity.settings-manager
+      displayName: Settings Manager
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       author:
         name: 
         email: 
         url: 
       category: 
       type: 
+<<<<<<< HEAD
       description: Unity's C# SIMD math library providing vector types and math functions
         with a shader like syntax.
+=======
+      description: A framework for making any serializable field a setting, complete
+        with a pre-built settings interface.
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       status: 4
       errors: []
       versions:
         all:
+<<<<<<< HEAD
         - 0.0.12-preview.2
         - 0.0.12-preview.5
         - 0.0.12-preview.8
@@ -3613,6 +4406,28 @@ m_PackageAssets:
         version: 1.0.0
       - name: com.unity.modules.jsonserialize
         version: 1.0.0
+=======
+        - 0.1.0-preview.4
+        - 0.1.0-preview.8
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
+        - 1.0.3
+        - 2.0.0
+        - 2.0.1
+        compatible:
+        - 0.1.0-preview.4
+        - 0.1.0-preview.8
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
+        - 1.0.3
+        - 2.0.0
+        - 2.0.1
+        verified: 1.0.3
+      dependencies: []
+      resolvedDependencies: []
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       keywords: []
       registry:
         id: main
@@ -3626,11 +4441,16 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637756824220000000
+=======
+      datePublishedTicks: 637300096300000000
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
+<<<<<<< HEAD
         url: https://github.com/Unity-Technologies/Graphics.git
         revision: 31a193989d1e4e18ec3dced0f45168f8d2552a9a
         path: 
@@ -3798,14 +4618,22 @@ m_PackageAssets:
         type: git
         url: https://github.com/Unity-Technologies/Graphics.git
         revision: 31a193989d1e4e18ec3dced0f45168f8d2552a9a
+=======
+        url: git+https://github.com/Unity-Technologies/com.unity.settings-manager.git
+        revision: 473664ccba1496294b741cf169740a5d54b3d0b6
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
         path: 
     - packageId: com.unity.nuget.newtonsoft-json@2.0.0
       testable: 0
       isDirectDependency: 0
       version: 2.0.0
       source: 1
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@2.0.0"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -3841,6 +4669,10 @@ m_PackageAssets:
         - 2.0.1-preview.1
         - 2.0.2
         - 3.0.1
+<<<<<<< HEAD
+=======
+        - 3.0.2
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
         compatible:
         - 1.0.0-preview.2
         - 1.0.0-preview.3
@@ -3854,6 +4686,10 @@ m_PackageAssets:
         - 2.0.1-preview.1
         - 2.0.2
         - 3.0.1
+<<<<<<< HEAD
+=======
+        - 3.0.2
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
         verified: 2.0.2
       dependencies: []
       resolvedDependencies: []
@@ -3883,8 +4719,12 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.1
       source: 1
+<<<<<<< HEAD
       resolvedPath: "C:\\Users\\17765\\Desktop\\unity\\unityFile\\Mathemathics -
         \u526F\u672C\\Library\\PackageCache\\com.unity.services.core@1.0.1"
+=======
+      resolvedPath: C:\game design\fpstry\Library\PackageCache\com.unity.services.core@1.0.1
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
       assetPath: Packages/com.unity.services.core
       name: com.unity.services.core
       displayName: Services Core
@@ -3912,6 +4752,15 @@ m_PackageAssets:
         - 1.1.0-pre.41
         - 1.1.0-pre.69
         - 1.2.0
+<<<<<<< HEAD
+=======
+        - 1.3.1
+        - 1.3.2
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
         compatible:
         - 1.0.1
         - 1.1.0-pre.7
@@ -3922,6 +4771,15 @@ m_PackageAssets:
         - 1.1.0-pre.41
         - 1.1.0-pre.69
         - 1.2.0
+<<<<<<< HEAD
+=======
+        - 1.3.1
+        - 1.3.2
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
         verified: 1.0.1
       dependencies:
       - name: com.unity.modules.unitywebrequest
@@ -3950,6 +4808,7 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
         revision: 4cd880d4fd5c60597629249bf4f324e4c8d7aa2e
         path: 
+<<<<<<< HEAD
     - packageId: com.unity.searcher@4.3.2
       testable: 0
       isDirectDependency: 0
@@ -4032,4 +4891,9 @@ m_PackageAssets:
   m_LocalPackages:
     m_LocalFileStatus: []
 m_ProjectPath: "C:/Users/17765/Desktop/unity/unityFile/Mathemathics - \u526F\u672C/Packages"
+=======
+  m_LocalPackages:
+    m_LocalFileStatus: []
+m_ProjectPath: C:/game design/fpstry/Packages
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
 m_EditorVersion: 2020.3.26f1c1 (cf0e0a163043)

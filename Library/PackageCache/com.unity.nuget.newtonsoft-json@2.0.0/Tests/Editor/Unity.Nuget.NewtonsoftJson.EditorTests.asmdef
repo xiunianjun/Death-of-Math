@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "Unity.Nuget.NewtonsoftJson.EditorTests",
     "references": [],
@@ -17,4 +18,25 @@
     "defineConstraints": [
         "UNITY_INCLUDE_TESTS"
     ]
+=======
+{
+    "name": "Unity.Nuget.NewtonsoftJson.EditorTests",
+    "references": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ]
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
 }

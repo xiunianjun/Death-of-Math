@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "UnityEditor.UI",
  
@@ -25,4 +26,33 @@
             "define": "PACKAGE_ANIMATION"
         }
     ]
+=======
+{
+    "name": "UnityEditor.UI",
+ 
+    "references": [
+      "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+	"versionDefines": [
+        {
+            "name": "com.unity.modules.physics",
+            "expression": "1.0.0",
+            "define": "PACKAGE_PHYSICS"
+        },
+        {
+            "name": "com.unity.modules.physics2d",
+            "expression": "1.0.0",
+            "define": "PACKAGE_PHYSICS2D"
+        },
+        {
+            "name": "com.unity.modules.animation",
+            "expression": "1.0.0",
+            "define": "PACKAGE_ANIMATION"
+        }
+    ]
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
 }

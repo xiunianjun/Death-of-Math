@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using NUnit.Framework;
 using NUnit.Framework.Interfaces;
 
@@ -45,3 +46,52 @@ namespace UnityEngine.TestTools.TestRunner.Callbacks
         }
     }
 }
+=======
+using NUnit.Framework;
+using NUnit.Framework.Interfaces;
+
+namespace UnityEngine.TestTools.TestRunner.Callbacks
+{
+    [AddComponentMenu("")]
+    internal class PlayModeRunnerCallback : MonoBehaviour, ITestRunnerListener
+    {
+        private TestResultRenderer m_ResultRenderer;
+
+        public void RunFinished(ITestResult testResults)
+        {
+            Application.logMessageReceivedThreaded -= LogRecieved;
+            if (Camera.main == null)
+            {
+                gameObject.AddComponent<Camera>();
+            }
+            m_ResultRenderer = new TestResultRenderer(testResults);
+            m_ResultRenderer.ShowResults();
+        }
+
+        public void TestFinished(ITestResult result)
+        {
+        }
+
+        public void OnGUI()
+        {
+            if (m_ResultRenderer != null)
+                m_ResultRenderer.Draw();
+        }
+
+        public void RunStarted(ITest testsToRun)
+        {
+            Application.logMessageReceivedThreaded += LogRecieved;
+        }
+
+        public void TestStarted(ITest test)
+        {
+        }
+
+        private void LogRecieved(string message, string stacktrace, LogType type)
+        {
+            if (TestContext.Out != null)
+                TestContext.Out.WriteLine(message);
+        }
+    }
+}
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4

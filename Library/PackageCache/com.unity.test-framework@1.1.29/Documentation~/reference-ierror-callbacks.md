@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IErrorCallbacks
 An extended version of the [ICallbacks](./reference-icallbacks.md), which get invoked if the test run fails due to a build error or if any [IPrebuildSetup](./reference-setup-and-cleanup.md) has a failure.
 
@@ -7,3 +8,14 @@ An extended version of the [ICallbacks](./reference-icallbacks.md), which get in
 | ---------------------------- | ------------------------------------------------------------------- |
 | void OnError(string message) | The error message detailing the reason for the run to fail.         |
 
+=======
+# IErrorCallbacks
+An extended version of the [ICallbacks](./reference-icallbacks.md), which get invoked if the test run fails due to a build error or if any [IPrebuildSetup](./reference-setup-and-cleanup.md) has a failure.
+
+## Public methods
+
+| Syntax                       | Description                                                         |
+| ---------------------------- | ------------------------------------------------------------------- |
+| void OnError(string message) | The error message detailing the reason for the run to fail.         |
+
+>>>>>>> dc1880a71e6662c12d241e6bea8d41fbdc1ff7f4
